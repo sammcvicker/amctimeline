@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,900;1,100;1,400;1,900&display=swap");
+
+:root {
+  --text: black;
+  --a: black;
+  --zero: white;
+  --red: #FF8E7F;
+  --pink: #FF80E2;
+  --purple: #9C7EFF;
+  --blue: #80C1FF;
+  --green: #A1FF7F;
+  --yellow: #FFEE7F;
+  --orange: #FFAF81;
+}
+
+.zero {
+  background-color: var(--zero);
+}
+
+.one {
+  background-color: var(--red);
+}
+
+.two {
+  background-color: var(--pink);
+}
+
+.three {
+  background-color: var(--purple);
+}
+
+.four {
+  background-color: var(--blue);
+}
+
+.five {
+  background-color: var(--green);
+}
+
+.six {
+  background-color: var(--yellow);
+}
+
+.seven {
+  background-color: var(--orange);
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  margin-top: 5vw;
+  margin-left: 5vw;
+  margin-bottom: 5vw;
+  font-size: 12em;
+  line-height: 1em;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 13pt;
+  background-color: var(--zero);
+  color: var(--text);
+}
+
+.period {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 4vw;
+  text-align: center;
+}
+
+.period .period {
+  margin-left: 5%;
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 4em;
+  line-height: 1em;
+  text-align: left;
+  margin: 0;
+  padding: 5%;
+  padding-bottom: 1%;
+}
+
+.period .period h2 {
+  padding-top: 6vw;
+}
+
+.summary {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0;
+  padding: 0;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  margin-right: 10%;
+  width: 40%;
+  text-align: left;
+}
+
+.summary h3 {
+  font-weight: 900;
+  font-size: 2.5em;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8%;
+}
+
+.events {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0;
+  padding: 0;
+  margin-top: 5%;
+  width: 40%;
+  text-align: left;
+}
+
+.events h3 {
+  font-weight: 900;
+  font-size: 2.5em;
+  line-height: 1em;
+  margin: 0;
+  padding: 0;
+  margin-left: -5%;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+.events h4 {
+  font-weight: 900;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 0;
+  margin-left: -5%;
+}
+
+p {
+  line-height: calc(1em + 0.5vw);
+}
+
+a {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: var(--a);
+  font-weight: 900;
+  text-decoration: none;
+  background-color: inherit;
+  transition: 100ms;
+}
+
+@keyframes wiggle {
+  0% {transform: rotate(-2deg);}
+  50% {transform: rotate(2deg);}
+  100% {transform: rotate(-2deg);}
+}
+
+.link:hover {
+  position: relative;
+  animation: wiggle 1s infinite;
+}
+
