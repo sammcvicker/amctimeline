@@ -2,6 +2,7 @@
 layout: default
 title: Timeline!
 ---
+
 <h1>Awakening<br />from the<br />Meaning<br />Crisis</h1>
 <div class="period one">
   <h2>
@@ -19,9 +20,9 @@ Africa. More complex social groupings emerged, supported by more
 varied and reliable food sources and specialized tool types. This
 probably contributed to increasing group identification or ethnicity
 (from Wikipedia).
+
   </div>
   <div class="events">
-    <div class="event">
       <div class="event">
         <h3 id="exaptation">
           Exaptation
@@ -179,7 +180,6 @@ probably contributed to increasing group identification or ethnicity
       </div>
     </div>
   </div>
-</div>
 <div class="period two" id="neolithic-revolution">
   <h2>
     Neolithic Revolution

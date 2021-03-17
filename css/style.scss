@@ -3,49 +3,40 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,900;1,100;1,400;1,900&display=swap");
 
-:root {
-  --text: black;
-  --a: black;
-  --zero: white;
-  --red: #ff8e7f;
-  --pink: #ff80e2;
-  --purple: #9c7eff;
-  --blue: #80c1ff;
-  --green: #a1ff7f;
-  --yellow: #ffee7f;
-  --orange: #ffaf81;
-}
-
-.zero {
-  background-color: var(--zero);
-}
+$red: #ff8e7f;
+$pink: #ff80e2;
+$purple: #9c7eff;
+$blue: #80c1ff;
+$green: #a1ff7f;
+$yellow: #ffee7f;
+$orange: #ffaf81;
 
 .one {
-  background-color: var(--red);
+  background-color: $red;
 }
 
 .two {
-  background-color: var(--pink);
+  background-color: $pink;
 }
 
 .three {
-  background-color: var(--purple);
+  background-color: $purple;
 }
 
 .four {
-  background-color: var(--blue);
+  background-color: $blue;
 }
 
 .five {
-  background-color: var(--green);
+  background-color: $green;
 }
 
 .six {
-  background-color: var(--yellow);
+  background-color: $yellow;
 }
 
 .seven {
-  background-color: var(--orange);
+  background-color: $orange;
 }
 
 h1 {
@@ -63,19 +54,7 @@ body {
   padding: 0;
   font-family: "Roboto", sans-serif;
   font-size: 13pt;
-  background-color: var(--zero);
-  color: var(--text);
-}
-
-.period {
-  margin: 0;
-  padding: 0;
-  padding-bottom: 4vw;
-  text-align: center;
-}
-
-.period .period {
-  margin-left: 5%;
+  color: black;
 }
 
 h2 {
@@ -88,8 +67,17 @@ h2 {
   padding-bottom: 1%;
 }
 
-.period .period h2 {
-  padding-top: 6vw;
+.period {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 4vw;
+  text-align: center;
+  .period {
+    margin-left: 5%;
+    h2 {
+      padding-top: 6vw;
+    }
+  }
 }
 
 .summary {
@@ -102,14 +90,13 @@ h2 {
   margin-right: 10%;
   width: 40%;
   text-align: left;
-}
-
-.summary h3 {
-  font-weight: 900;
-  font-size: 2.5em;
-  margin: 0;
-  padding: 0;
-  margin-bottom: 8%;
+  h3 {
+    font-weight: 900;
+    font-size: 2.5em;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 8%;
+  }
 }
 
 .events {
