@@ -1,16 +1,19 @@
+---
+---
+
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,900;1,100;1,400;1,900&display=swap");
 
 :root {
   --text: black;
   --a: black;
   --zero: white;
-  --red: #FF8E7F;
-  --pink: #FF80E2;
-  --purple: #9C7EFF;
-  --blue: #80C1FF;
-  --green: #A1FF7F;
-  --yellow: #FFEE7F;
-  --orange: #FFAF81;
+  --red: #ff8e7f;
+  --pink: #ff80e2;
+  --purple: #9c7eff;
+  --blue: #80c1ff;
+  --green: #a1ff7f;
+  --yellow: #ffee7f;
+  --orange: #ffaf81;
 }
 
 .zero {
@@ -117,25 +120,25 @@ h2 {
   margin-top: 5%;
   width: 40%;
   text-align: left;
-}
 
-.events h3 {
-  font-weight: 900;
-  font-size: 2.5em;
-  line-height: 1em;
-  margin: 0;
-  padding: 0;
-  margin-left: -5%;
-  margin-top: 5%;
-  margin-bottom: 2%;
-}
+  h3 {
+    font-weight: 900;
+    font-size: 2.5em;
+    line-height: 1em;
+    margin: 0;
+    padding: 0;
+    margin-left: -5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+  }
 
-.events h4 {
-  font-weight: 900;
-  font-size: 1.5em;
-  margin: 0;
-  padding: 0;
-  margin-left: -5%;
+  h4 {
+    font-weight: 900;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    margin-left: -5%;
+  }
 }
 
 p {
@@ -154,13 +157,18 @@ a {
 }
 
 @keyframes wiggle {
-  0% {transform: rotate(-2deg);}
-  50% {transform: rotate(2deg);}
-  100% {transform: rotate(-2deg);}
+  0% {
+    transform: rotate(-2deg);
+  }
+  50% {
+    transform: rotate(2deg);
+  }
+  100% {
+    transform: rotate(-2deg);
+  }
 }
 
 .link:hover {
   position: relative;
   animation: wiggle 1s infinite;
 }
-
