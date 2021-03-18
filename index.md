@@ -348,7 +348,9 @@ probably contributed to increasing group identification or ethnicity
       Israel
     </h2>
     <div class="summary">
-      <p></p>
+      <p>
+        The birthplace of Judaism, Christianity, and progress.
+      </p>
     </div>
     <div class="events">
       <div class="event">
@@ -391,7 +393,7 @@ probably contributed to increasing group identification or ethnicity
         </p>
       </div>
       <div class="event">
-        <h3 id="kairos-&daath">
+        <h3 id="kairos-&-daath">
           Kairos & Da'ath
         </h3>
         <p>
@@ -443,34 +445,137 @@ probably contributed to increasing group identification or ethnicity
       <p>
         The ancient Greeks do something to alphabetic literacy of massive
         importance: they add vowels. This further increases alphabetic
-        literacy's already impressive cognitive fluency.
+        literacy's already impressive <a href="#cognitive-fluency" class="link">cognitive fluency</a>.
+      </p>
+      <p>
+        The greeks also develop some other things, such as democracy, which puts a premium an argumentation and debate. They start to speed up the Axial Revolution in their own cognition. They enhance language and argumentation, and then make each important in daily life.
+      </p>
+      <p>
+        The Greeks also invent rigorous mathematics, geometry, and abstract symbol systems for their own sake. The <a href="#psychotechnology">psychotechnology</a> they create is rational argumentation, and they start explicitly training in it.
       </p>
     </div>
     <div class="events">
       <div class="event">
+        <h3 id="cognitive-fluency">
+          Cognitive Fluency
+        </h3>
+        <p>
+          This is nothing less than ease of processing; however, when you increase the ease with which people are able to process information, the more likely they are to believe it. Cognitive fluency directly affects how real the picture something is giving you seems. When you have a lot of cognitive fluency, you meet one of the conditions for the <a href="#the-flow-state" class="link">flow-state</a>.
+        </p>
+      </div>
+      <div class="event">
         <h3 id="pythagoras">
           Pythagoras
         </h3>
-        <h4>197,480 — 197,560 SE</h4>
-        <p></p>
+        <p>
+          If there are two people who epitomize the Axial Revolution in Greece, one is Pythagoras, and the other is Socrates. Pythagoras belonged to a group of individuals who were just emerging from the dark ages called The Divine Men. The seemed to represent a rediscovery of <a href="#shamanism" class="link">shamanic psychotechnologies</a>. Much known about them is mythological and legendary. But Pythagoras was very real.
+        </p>
+        <p>
+          Pythagoras seems to have gone through shamanic training: he went into a cave, and emerged radically transformed. He was very tall, and he dressed like a god, though no one seemed to have minded.
+        </p>
+        <p>
+          He discovers the octave, and with it the fact that there are mathematical proportions in the world. He discovers that these new psychotechnologies of rational argumentation give us access to abstract patterns we are not directly aware of. He takes this idea of realizing abstract patterns and links them to the shamanic practices, saying we are somehow trapped in this world, but that we can learn to fly free, like the shaman.
+        </p>
+        <p>
+          He linked the path of self-transcendence to the realization of abstract patterns. He gives us words like cosmos (seen in cosmetics: to reveal the beauty of things). Pythagoras said that following him would lead to our transcending ourselves, experiencing the world as ordered and beautiful. Thus, shamanic soul flight is transformed into a radical self-transcendence towards the real world that dictates the abstract figures of reality.
+        </p>
       </div>
-      <div class="event">
-        <h3 id="socrates">
-          Socrates
-        </h3>
-        <h4>197,581 — 197,651 SE</h4>
-        <p></p>
+    </div>
+    <div class="period six">
+      <h2>
+        Socrates
+      </h2>
+      <div class="summary">
+        <p>
+          Socrates was an enigmatic, provocative, and maddeningly frustrating figure. He is equally so with respect to scholarly attempts to get clear on his history. Some followers of his went to the oracle at Delphi and asked whether there was any man wiser than Socrates. They were shocked when, as opposed to the regular, unintelligible answer, the recieved "No. There is no man wiser than Socrates".  
+        </p>
+        <p>
+          Socrates's way of taking this answer is telling. He did not pat himself on the back. He asked how it could be so, and he began a quest to find out.
+        </p>
       </div>
-      <div class="event">
-        <h3 id="plato">
-          Plato
-        </h3>
-        <h4>197,622 — 197,702 SE</h4>
-        <p></p>
+      <div class="events">
+        <div class="event">
+          <h3 id="elenchus">
+            Elenchus & Aporia
+          </h3>
+          <p>
+            Elenchus is the name given to the Socratic Method. Socrates would go to anyone claiming to have wisdom or knowledge, or to any tradesman, nobleman, etc., and ask them questions. "Why are you buying those goods? Oh, because they will bring you pleasure? Then you must know what pleasure is, please, tell me? And how can you tell which among them is good as opposed to bad, surely you must know what the good is?" and so on.
+          </p>
+          <p>
+            The state that his interlocutors eventually reached is called aporia. It's like being stung by a sting ray, confused, lost, paralyzed, utterly unable to continue the discussion. Socrates believed at some point to have completed his quest. He knew what he did not know. Not in the sense that one does not know the intricacies of quantum physics, but in the sense of <a href="#kairos-&-daath" class="link">da'ath</a>. Socrates has a deep sense of his own cognitive mechanisms and how self-deceptive they can be.
+          </p>
+          <p>
+            Socrates had figured out that our actions are constantly racing ahead of our knowledge. We are buying things, and we <em>don't know why</em>. We want and we do and we get angry and we fall in love and we <em>don't know what's going on</em>.
+          </p>
+        </div>
+        <div class="event">
+          <h3 id="thales">
+            Thales
+          </h3>
+          <p>
+            The Natural Philosophers, of whom Thales is a prime example, were one of the groups that Socrates sought out on his quest. Thales' body of work, of which we have only fragments, can be summed up in three lines.
+          </p>
+          <blockquote>
+            All is the moist.
+            The loadstone has psyche.
+            Everything is filled with Gods.
+          </blockquote>
+          <p>
+            Thales first inquires about the substance of everything, about getting in and underneath the world, to figure out what it's made of. And there's no myth here; this is not a story, not a narrative explanation, he's making a rational, empirical attempt to understand the cosmos. What he's inventing is scientific thought.
+          </p>
+          <p>
+            The last line could be misread easily by modern eyes. Thales is attempting to communicate the awe and wonder that analysis into the fabric of reality, into making sense of reality, of what's most sacred and inexhaustible, provokes. 
+          </p>
+          <p>
+            Ultimately, Socrates rejects the natural philosophers, such as Thales, because they offer <a href="truth-&-relevance" class="link">truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
+          </p>
+        </div>
+        <div class="event">
+          <h3 id="the-sophists-&-rhetoric">
+            The Sophists & Rhetoric
+          </h3>
+          <p>
+            The sophists (where we get the word sophisticated) were a group of people trained in the new, very Greek, psychotechnology of rhetoric, or argumentative skill. They did not care what the argument was for, only that it could be delivered well.
+          </p>
+          <p>
+            They were paid to teach citizens and prepare their speeches for democratic presentation. They would teach one man to argue for an augmentation of the Athenian navy and another for its diminuation. Socrates ultimately rejects the sophists as well, as they offer <a href="truth-&-relevance" class="link">relevance without truth</a>.
+          </p>
+        </div>
+        <div class="event">
+          <h3 id="Bullshit">
+            Bullshit
+          </h3>
+          <p>
+            Socrates understood that while we cannot lie to ourselves, we can bullshit ourselves. You cannot volitionally believe. If asked to believe there's an elephant in the room, though you know there is not. You cannot do it. The liar thus depends on your commitment to the truth. And, though you can direct your attention, it can also be caught. The bullshit artist depends on your self-deception, on your sense of salience, on your caught attention, overpowering your commitment to the truth.
+          </p>
+          <p>
+            There is a feedback loop which occurs with attention: your attention is captured by something, so it becomes more salient in the future, you are more caught by it, so it is more salient, and so on until you loose the capacity to notice or think about other things. This is the engine of bullshit.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="period seven">
+      <h2>
+        Plato
+      </h2>
+      <div class="summary">
+        <h3>Date</h3>
+        <p>
+          Summary
+        </p>
+      </div>
+      <div class="events">
+        <div class="event">
+          <h3>Event</h3>
+          <h4>Date</h4>
+          <p>
+            Paragraph
+          </p>
+        </div>
       </div>
     </div>
   </div>
-  <div class="period six">
+  <div class="period one">
     <h2>
       India
     </h2>
