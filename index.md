@@ -244,7 +244,7 @@ probably contributed to increasing group identification or ethnicity
         known. More cities go out of existence, more cultures disappear,
         than at any other time in history. This is the closest thing to
         apocalypse, to the end of the world, ever. This places an immense
-        ammount of demand on the surviving people to cognitively adapt.
+        amount of demand on the surviving people to cognitively adapt.
       </p>
     </div>
   </div>
@@ -530,7 +530,7 @@ probably contributed to increasing group identification or ethnicity
             The last line could be misread easily by modern eyes. Thales is attempting to communicate the awe and wonder that analysis into the fabric of reality, into making sense of reality, of what's most sacred and inexhaustible, provokes. 
           </p>
           <p>
-            Ultimately, Socrates rejects the natural philosophers, such as Thales, because they offer <a href="truth-&-relevance" class="link">truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
+            Ultimately, Socrates rejects the natural philosophers, such as Thales, because they offer <a href="#truth-&-relevance" class="link">truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
           </p>
         </div>
         <div class="event">
@@ -541,7 +541,7 @@ probably contributed to increasing group identification or ethnicity
             The sophists (where we get the word sophisticated) were a group of people trained in the new, very Greek, psychotechnology of rhetoric, or argumentative skill. They did not care what the argument was for, only that it could be delivered well. See <a href="#bullshit" class="link">bullshit</a> for more information.
           </p>
           <p>
-            They were paid to teach citizens and prepare their speeches for democratic presentation. They would teach one man to argue for an augmentation of the Athenian navy and another for its diminuation. Socrates ultimately rejects the sophists as well, as they offer <a href="truth-&-relevance" class="link">relevance without truth</a>.
+            They were paid to teach citizens and prepare their speeches for democratic presentation. They would teach one man to argue for an augmentation of the Athenian navy and another for its diminuation. Socrates ultimately rejects the sophists as well, as they offer <a href="#truth-&-relevance" class="link">relevance without truth</a>.
           </p>
         </div>
         <div class="event">
