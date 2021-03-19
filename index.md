@@ -492,6 +492,9 @@ probably contributed to increasing group identification or ethnicity
         <p>
           Socrates's way of taking this answer is telling. He did not pat himself on the back. He asked how it could be so, and he began a quest to find out.
         </p>
+        <p>
+          He presents us with an interesting character, which appears to have been shamanic to a large extent, carrying on the mythos of the shamanic psychotechnologies: long meditations, inhuman bravery and ability to withstand pain, cold, and hunger. But he also represents a turning point in world history and is the figure of the Axial Revolution in Greece.
+        </p>
       </div>
       <div class="events">
         <div class="event">
@@ -535,14 +538,14 @@ probably contributed to increasing group identification or ethnicity
             The Sophists & Rhetoric
           </h3>
           <p>
-            The sophists (where we get the word sophisticated) were a group of people trained in the new, very Greek, psychotechnology of rhetoric, or argumentative skill. They did not care what the argument was for, only that it could be delivered well.
+            The sophists (where we get the word sophisticated) were a group of people trained in the new, very Greek, psychotechnology of rhetoric, or argumentative skill. They did not care what the argument was for, only that it could be delivered well. See <a href="#bullshit" class="link">bullshit</a> for more information.
           </p>
           <p>
             They were paid to teach citizens and prepare their speeches for democratic presentation. They would teach one man to argue for an augmentation of the Athenian navy and another for its diminuation. Socrates ultimately rejects the sophists as well, as they offer <a href="truth-&-relevance" class="link">relevance without truth</a>.
           </p>
         </div>
         <div class="event">
-          <h3 id="Bullshit">
+          <h3 id="bullshit">
             Bullshit
           </h3>
           <p>
@@ -550,6 +553,20 @@ probably contributed to increasing group identification or ethnicity
           </p>
           <p>
             There is a feedback loop which occurs with attention: your attention is captured by something, so it becomes more salient in the future, you are more caught by it, so it is more salient, and so on until you loose the capacity to notice or think about other things. This is the engine of bullshit.
+          </p>
+          <p>
+            Rhetoric is a psychotechnology of bullshit. It is the explicit, trained capacity to bullshit your listeners. It is the beginning of advertising. You know that life is not like a beer commercial. If you walked into a bar, and it was like a beer commercial, you would question your sanity. Nonetheless, you buy the beer, the advertisement is still effective; the reason is rhetoric and our capacity for our actions and desires to become very salient to us way before we understand them, our capacity to bullshit ourselves and to be bullshit by others.
+          </p>
+        </div>
+        <div class="event">
+          <h3 id="truth-&-relevance">
+            Truth & Relevance
+          </h3>
+          <p>
+            While the natural philosophers offered truth without relevance, and the sophists relevance without truth, Socrates wanted truth and relevance to become aligned. He thought that what makes life worth living is caring about the things which matter, finding relevant, desireable, and tempting things which are actually known by onself to be truly good.
+          </p>
+          <p>
+            Socrates claimed that he knew how to love well (ta erotika), or desire or want well. In short he claims to have gotten his relevance machinery and his truth oriented-ness to work together. He knew how reason and love go together.
           </p>
         </div>
       </div>
@@ -590,7 +607,7 @@ probably contributed to increasing group identification or ethnicity
         <h3>Event</h3>
         <h4>Date</h4>
         <p>
-          Paragraph
+          Heyo
         </p>
       </div>
     </div>
