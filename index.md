@@ -254,7 +254,7 @@ probably contributed to increasing group identification or ethnicity
     Axial Revolution
   </h2>
   <div class="summary">
-    <h3>800 BCE</h3>
+    <h3>1000 — 0 BCE</h3>
     <p>
       Our connection to the civilizations, stories, and
       <a class="link" href="#myth-&-the-grammar-of-meaning">myths</a> of the
@@ -348,6 +348,9 @@ probably contributed to increasing group identification or ethnicity
       Israel
     </h2>
     <div class="summary">
+      <h3>
+        1000 — 150 BC
+      </h3>
       <p>
         The birthplace of Judaism, Christianity, and progress.
       </p>
@@ -442,6 +445,9 @@ probably contributed to increasing group identification or ethnicity
       Greece
     </h2>
     <div class="summary">
+      <h3>
+        624 — 322 BC
+      </h3>
       <p>
         The ancient Greeks do something to alphabetic literacy of massive
         importance: they add vowels. This further increases alphabetic
@@ -463,9 +469,42 @@ probably contributed to increasing group identification or ethnicity
           This is nothing less than ease of processing; however, when you increase the ease with which people are able to process information, the more likely they are to believe it. Cognitive fluency directly affects how real the picture something is giving you seems. When you have a lot of cognitive fluency, you meet one of the conditions for the <a href="#the-flow-state" class="link">flow-state</a>.
         </p>
       </div>
-      <div class="event">
-        <h3 id="pythagoras">
-          Pythagoras
+    </div>
+    <div class="period six">
+      <h2 id="thales">
+        Thales of Miletus
+      </h2>
+      <div class="summary">
+        <h3>
+          624 — 548 BC
+        </h3>
+        <p>
+          The Natural Philosophers, of whom Thales is a prime example, were one of the groups that Socrates sought out on his quest. Thales' body of work, of which we have only fragments, can be summed up in three lines.
+        </p>
+        <blockquote>
+          All is the moist.
+          The loadstone has psyche.
+          Everything is filled with Gods.
+        </blockquote>
+        <p>
+          Thales first inquires about the substance of everything, about getting in and underneath the world, to figure out what it's made of. And there's no myth here; this is not a story, not a narrative explanation, he's making a rational, empirical attempt to understand the cosmos. What he's inventing is scientific thought.
+        </p>
+        <p>
+          The last line could be misread easily by modern eyes. Thales is attempting to communicate the awe and wonder that analysis into the fabric of reality, into making sense of reality, of what's most sacred and inexhaustible, provokes. 
+        </p>
+        <p>
+          Ultimately, <a href="#socrates" class="link">Socrates</a> rejects the natural philosophers, such as Thales, because they offer <a href="#truth-&-relevance" class="link">truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
+        </p>
+      </div>
+      <div class="events"></div>
+    </div>
+    <div class="period seven">
+      <h2 id="pythagoras">
+        Pythagoras
+      </h2>
+      <div class="summary">
+        <h3>
+          570 — 490 BC
         </h3>
         <p>
           If there are two people who epitomize the Axial Revolution in Greece, one is Pythagoras, and the other is Socrates. Pythagoras belonged to a group of individuals who were just emerging from the dark ages called The Divine Men. The seemed to represent a rediscovery of <a href="#shamanism" class="link">shamanic psychotechnologies</a>. Much known about them is mythological and legendary. But Pythagoras was very real.
@@ -480,12 +519,16 @@ probably contributed to increasing group identification or ethnicity
           He linked the path of self-transcendence to the realization of abstract patterns. He gives us words like cosmos (seen in cosmetics: to reveal the beauty of things). Pythagoras said that following him would lead to our transcending ourselves, experiencing the world as ordered and beautiful. Thus, shamanic soul flight is transformed into a radical self-transcendence towards the real world that dictates the abstract figures of reality.
         </p>
       </div>
+      <div class="events"></div>
     </div>
-    <div class="period six">
-      <h2>
+    <div class="period one">
+      <h2 id="socrates">
         Socrates
       </h2>
       <div class="summary">
+        <h3>
+          469 — 399 BC
+        </h3>
         <p>
           Socrates was an enigmatic, provocative, and maddeningly frustrating figure. He is equally so with respect to scholarly attempts to get clear on his history. Some followers of his went to the oracle at Delphi and asked whether there was any man wiser than Socrates. They were shocked when, as opposed to the regular, unintelligible answer, the recieved "No. There is no man wiser than Socrates".  
         </p>
@@ -509,28 +552,6 @@ probably contributed to increasing group identification or ethnicity
           </p>
           <p>
             Socrates had figured out that our actions are constantly racing ahead of our knowledge. We are buying things, and we <em>don't know why</em>. We want and we do and we get angry and we fall in love and we <em>don't know what's going on</em>.
-          </p>
-        </div>
-        <div class="event">
-          <h3 id="thales">
-            Thales
-          </h3>
-          <p>
-            The Natural Philosophers, of whom Thales is a prime example, were one of the groups that Socrates sought out on his quest. Thales' body of work, of which we have only fragments, can be summed up in three lines.
-          </p>
-          <blockquote>
-            All is the moist.
-            The loadstone has psyche.
-            Everything is filled with Gods.
-          </blockquote>
-          <p>
-            Thales first inquires about the substance of everything, about getting in and underneath the world, to figure out what it's made of. And there's no myth here; this is not a story, not a narrative explanation, he's making a rational, empirical attempt to understand the cosmos. What he's inventing is scientific thought.
-          </p>
-          <p>
-            The last line could be misread easily by modern eyes. Thales is attempting to communicate the awe and wonder that analysis into the fabric of reality, into making sense of reality, of what's most sacred and inexhaustible, provokes. 
-          </p>
-          <p>
-            Ultimately, Socrates rejects the natural philosophers, such as Thales, because they offer <a href="#truth-&-relevance" class="link">truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
           </p>
         </div>
         <div class="event">
@@ -566,7 +587,21 @@ probably contributed to increasing group identification or ethnicity
             While the natural philosophers offered truth without relevance, and the sophists relevance without truth, Socrates wanted truth and relevance to become aligned. He thought that what makes life worth living is caring about the things which matter, finding relevant, desireable, and tempting things which are actually known by onself to be truly good.
           </p>
           <p>
-            Socrates claimed that he knew how to love well (ta erotika), or desire or want well. In short he claims to have gotten his relevance machinery and his truth oriented-ness to work together. He knew how reason and love go together.
+            Socrates claimed that he knew how to love well (ta erotika), or desire or want well. In short he claims to have gotten his relevance machinery and his truth oriented-ness to work together. He knew how reason and love go together. He was lucky to have a great disciple in Plato.
+          </p>
+        </div>
+        <div class="event">
+          <h3 id="the-trial-&-death-of-socrates">
+            The Trial & Death of Socrates
+          </h3>
+          <p>
+            Socrates is eventually put on trial for corrupting the youth and atheism, which is at this time not the disbelief in Gods but the teaching of strange Gods. It appears that he made friends with trouble-makers and made enemies of powerful political elite, though the exact reasons for his trial are unclear. 
+          </p>
+          <p>
+            He explains his quest and the oracle's declaration, and makes his case largely in the style he is accustomed to, which is not what the jury is used to. He is found guilty by a very slim majority. At this point each side suggests a punishment to be voted on. The prosecutors suggest death, and Socrates says that the unexamined life is not worth living and suggests that his punishment be to continue doing philosophy, as it has cost him greatly: the admonition of his state, a lack of political power, etc. So, Socrates proposes that Athens give him free housing and food for life so that he can continue doing the grueling work of philosophy.
+          </p>
+          <p>
+            The jury votes with a overwhelming majority for death.
           </p>
         </div>
       </div>
@@ -576,17 +611,60 @@ probably contributed to increasing group identification or ethnicity
         Plato
       </h2>
       <div class="summary">
-        <h3>Date</h3>
+        <h3>
+          428 — 348 BC
+        </h3>
         <p>
-          Summary
+          Plato was a follower of Socrates, present at his trial though ill and not present at his death. His central question will be how it is that Plato's beloved Athens killed his beloved Socrates. This question, and this sort of question, will accellerate the Axial Revolution in Greece tremendously. It will lead to the invention of <a href="#plato's-psychology" class="link">psychology</a>.
         </p>
       </div>
       <div class="events">
         <div class="event">
-          <h3>Event</h3>
-          <h4>Date</h4>
+          <h3 id="plato's-psychology">
+            Plato's Psychology
+          </h3>
+          <h4>375 BC</h4>
           <p>
-            Paragraph
+            Inner conflict; this is Plato's answer to the question of foolishness, and with it he crafts the first true psychological account—one which will remain present with us today. He comes up with the idea that we have different centers in the psyche, each with a different perspective on the world and on ourselves.
+          </p>
+          <p>
+            There's a man in your head who is truth-oriented and reasoning, deals with abstract entities, and plans long-term. This man has cognitive access to things like health, weight, sense of progress, financial security, etc.
+          </p>
+          <p>
+            There's a lion in your chest that is honor- and shame-motivated, deals in social and cutlural entities, shared and socially agreed-upon goals, and cultural meanings, and plans in the intermediate-term. It is called the thymos, or the piece of you which is socially motivated.
+          </p>
+          <p>
+            Finally there is a monster in your stomach and genitals that deals in pleasure and pain, is very short-term, salience, motivated, and cannot plan.
+          </p>
+          <p>
+            When these centers of your self are out of balance or in conflict, one can race ahead of the other, the monster can overpower the man easily, or the lion for that matter. The man is not very powerful in fact. Plato had a reasonable explanation for foolishness which is in the very bones of our society. We take this for granted, this notion of inner conflict between our simple, unplanning, pleasure-pain reactions and our reasoned plans and social agreements. He invented it.
+          </p>
+          <p>
+            While Socrates practiced getting people to realize that what they found salient was getting way ahead of what they understood to be true, Plato offered a rational explanation.
+          </p>
+        </div>
+        <div class="event">
+          <h3>
+            Cognitive Discounting
+          </h3>
+          <h4>375 BC</h4>
+          <p>
+            Inner conflict; this is Plato's answer to the question of foolishness, and with it he crafts the first true psychological account—one which will remain present with us today. He comes up with the idea that we have different centers in the psyche, each with a different perspective on the world and on ourselves.
+          </p>
+          <p>
+            There's a man in your head who is truth-oriented and reasoning, deals with abstract entities, and plans long-term. This man has cognitive access to things like health, weight, sense of progress, financial security, etc.
+          </p>
+          <p>
+            There's a lion in your chest that is honor- and shame-motivated, deals in social and cutlural entities, shared and socially agreed-upon goals, and cultural meanings, and plans in the intermediate-term. It is called the thymos, or the piece of you which is socially motivated.
+          </p>
+          <p>
+            Finally there is a monster in your stomach and genitals that deals in pleasure and pain, is very short-term, salience, motivated, and cannot plan.
+          </p>
+          <p>
+            When these centers of your self are out of balance or in conflict, one can race ahead of the other, the monster can overpower the man easily, or the lion for that matter. The man is not very powerful in fact. Plato had a reasonable explanation for foolishness which is in the very bones of our society. We take this for granted, this notion of inner conflict between our simple, unplanning, pleasure-pain reactions and our reasoned plans and social agreements. He invented it.
+          </p>
+          <p>
+            While Socrates practiced getting people to realize that what they found salient was getting way ahead of what they understood to be true, Plato offered a rational explanation.
           </p>
         </div>
       </div>
