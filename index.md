@@ -16,18 +16,58 @@ title: Timeline!
       </p>
       <div class="book">
         <h2>
-          After Phrenology: Neural Reuse and the Interactive Brain
+          After Phrenology
         </h2>
         <h3>
-          Michael Anderson
+          Neural Reuse and the Interactive Brain
         </h3>
+        <h4>
+          Michael Anderson
+        </h4>
       </div>
       <div class="book">
         <h2>
           The Mindfulness Revolution
         </h2>
         <h3>
+          Leading Psychologists, Scientists, Artists, and Meditation Teachers on the Power of Mindfulness in Daily Life 
+        </h3>
+        <h4>
           Barry Boyce (Editor)
+        </h4>
+      </div>
+      <div class="book">
+        <h2>
+          Natural-Born Cyborgs
+        </h2>
+        <h3>
+          Minds, Technologies, and the Future of Human Intelligence 
+        </h3>
+        <h4>Andy Clark</h4>
+      </div>
+      <div class="book">
+        <h2>
+          The Scientific Study of Personal Wisdom
+        </h2>
+        <h3>
+          From Contemplative Traditions to Neuroscience
+        </h3>
+        <h4>Michel Ferrari and Nic Weststrate (Editors)</h4>
+      </div>
+      <div class="book">
+        <h2>
+          Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence 
+        </h2>
+        <h3>
+          Andy Clark
+        </h3>
+      </div>
+      <div class="book">
+        <h2>
+          Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence 
+        </h2>
+        <h3>
+          Andy Clark
         </h3>
       </div>
       <div class="book">
