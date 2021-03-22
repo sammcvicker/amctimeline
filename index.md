@@ -14,6 +14,14 @@ title: Timeline!
       <p>
         The Upper Paleolithic has the earliest known evidence of organized settlements, in the form of campsites, some with storage pits. Artistic work blossomed, with cave painting, petroglyphs, carvings and engravings on bone or ivory. The first evidence of human fishing is also found, from artefacts in places such as Blombos cave in South Africa. More complex social groupings emerged, supported by more varied and reliable food sources and specialized tool types. This probably contributed to increasing group identification or ethnicity (from Wikipedia).
       </p>
+      <div class="book">
+        <h2>
+          After Phrenology: Neural Reuse and the Interactive Brain
+        </h2>
+        <h3>
+          Michael Anderson
+        </h3>
+      </div>
     </div>
     <div class="events">
         <div class="event">
