@@ -4,8 +4,8 @@ title: Timeline!
 ---
 
 <h1>Awakening<br />from the<br />Meaning<br />Crisis</h1>
-<div id="timeline-margins">
-  <div class="period one">
+<div id="content">
+  <div class="period">
     <h2>
       Upper Paleolithic Transition
     </h2>
@@ -39,7 +39,7 @@ title: Timeline!
             Shamanism begins around this time. The shaman engages in
             disruptive practices, participatory play, and psychedelics to
             heal, lead, and cousel their tribespeople. They harness the
-            <a class="link" href="#the-flow-state">flow-state</a> and implicit
+            <a href="#the-flow-state">flow-state</a> and implicit
             learning to have intuitive understandings of patterns in their
             environments and in the tribe.
           </p>
@@ -173,7 +173,7 @@ title: Timeline!
         </div>
       </div>
     </div>
-  <div class="period two" id="neolithic-revolution">
+  <div class="period" id="neolithic-revolution">
     <h2>
       Neolithic Revolution
     </h2>
@@ -242,7 +242,7 @@ title: Timeline!
       </div>
     </div>
   </div>
-  <div class="period three">
+  <div class="period">
     <h2>
       Axial Revolution
     </h2>
@@ -250,13 +250,13 @@ title: Timeline!
       <h3>1000 — 0 BCE</h3>
       <p>
         Our connection to the civilizations, stories, and
-        <a class="link" href="#myth-&-the-grammar-of-meaning">myths</a> of the
-        <a class="link" href="#neolithic-revolution">Neolithic Revolution</a>
+        <a  href="#myth-&-the-grammar-of-meaning">myths</a> of the
+        <a  href="#neolithic-revolution">Neolithic Revolution</a>
         are limited, and they don't speak to us the same way as civilizations
         and stories from only a short time after it. The Axial Revolution is
         what happened in the world that is so formative of us as a world
         civilization. It's called
-        <a class="link" href="the-great-disembedding"
+        <a  href="the-great-disembedding"
           >The Great Dissembedding</a
         >
       </p>
@@ -271,7 +271,7 @@ title: Timeline!
           In the land of Kanin, later taken to the Hebrew, Phoenicians, and
           Greeks, a new kind of literacy is invented: alphabetic literacy.
           It's a more efficient and effective
-          <a class="link" href="#psychotechnology">psychotechnology</a>, and
+          <a  href="#psychotechnology">psychotechnology</a>, and
           it's far easier to learn. Since literacy is so powerful, and the
           number of literate people increases, the effect is titanic. Almost
           everyone can reflect, become more aware of their own thoughts, their
@@ -293,8 +293,8 @@ title: Timeline!
           Coinage is also invented around this time and numeracy with it.
           Money teaches you to think in abstract symbol systems. Abstract,
           symbolic, logically rigorous thinking is being trained, ready for
-          <a class="link" href="#exaptation">exaptation</a> to bring
-          <a class="link" href="#alphabetic-literacy">alphabetic literacy</a>
+          <a  href="#exaptation">exaptation</a> to bring
+          <a  href="#alphabetic-literacy">alphabetic literacy</a>
           and numeracy together. People start getting a clear sense of two
           things about their cognition: how much they can correct their
           cognition, how much they can transcend themselves, and how
@@ -336,7 +336,7 @@ title: Timeline!
         </p>
       </div>
     </div>
-    <div class="period four">
+    <div class="period">
       <h2>
         Israel
       </h2>
@@ -433,7 +433,7 @@ title: Timeline!
         </div>
       </div>
     </div>
-    <div class="period five">
+    <div class="period">
       <h2>
         Greece
       </h2>
@@ -444,7 +444,7 @@ title: Timeline!
         <p>
           The ancient Greeks do something to alphabetic literacy of massive
           importance: they add vowels. This further increases alphabetic
-          literacy's already impressive <a href="#cognitive-fluency" class="link">cognitive fluency</a>.
+          literacy's already impressive <a href="#cognitive-fluency" >cognitive fluency</a>.
         </p>
         <p>
           The greeks also develop some other things, such as democracy, which puts a premium an argumentation and debate. They start to speed up the Axial Revolution in their own cognition. They enhance language and argumentation, and then make each important in daily life.
@@ -459,11 +459,11 @@ title: Timeline!
             Cognitive Fluency
           </h3>
           <p>
-            This is nothing less than ease of processing; however, when you increase the ease with which people are able to process information, the more likely they are to believe it. Cognitive fluency directly affects how real the picture something is giving you seems. When you have a lot of cognitive fluency, you meet one of the conditions for the <a href="#the-flow-state" class="link">flow-state</a>.
+            This is nothing less than ease of processing; however, when you increase the ease with which people are able to process information, the more likely they are to believe it. Cognitive fluency directly affects how real the picture something is giving you seems. When you have a lot of cognitive fluency, you meet one of the conditions for the <a href="#the-flow-state" >flow-state</a>.
           </p>
         </div>
       </div>
-      <div class="period six">
+      <div class="period">
         <h2 id="thales">
           Thales of Miletus
         </h2>
@@ -486,12 +486,12 @@ title: Timeline!
             The last line could be misread easily by modern eyes. Thales is attempting to communicate the awe and wonder that analysis into the fabric of reality, into making sense of reality, of what's most sacred and inexhaustible, provokes. 
           </p>
           <p>
-            Ultimately, <a href="#socrates" class="link">Socrates</a> rejects the natural philosophers, such as Thales, because they offer <a href="#truth-&-relevance" class="link">truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
+            Ultimately, <a href="#socrates" >Socrates</a> rejects the natural philosophers, such as Thales, because they offer <a href="#truth-&-relevance" >truth without relevance</a>. Thales tells us nothing of how we should live our lives, of what's important to us, of what moves us, etc.
           </p>
         </div>
         <div class="events"></div>
       </div>
-      <div class="period seven">
+      <div class="period">
         <h2 id="pythagoras">
           Pythagoras
         </h2>
@@ -500,7 +500,7 @@ title: Timeline!
             570 — 490 BC
           </h3>
           <p>
-            If there are two people who epitomize the Axial Revolution in Greece, one is Pythagoras, and the other is Socrates. Pythagoras belonged to a group of individuals who were just emerging from the dark ages called The Divine Men. The seemed to represent a rediscovery of <a href="#shamanism" class="link">shamanic psychotechnologies</a>. Much known about them is mythological and legendary. But Pythagoras was very real.
+            If there are two people who epitomize the Axial Revolution in Greece, one is Pythagoras, and the other is Socrates. Pythagoras belonged to a group of individuals who were just emerging from the dark ages called The Divine Men. The seemed to represent a rediscovery of <a href="#shamanism" >shamanic psychotechnologies</a>. Much known about them is mythological and legendary. But Pythagoras was very real.
           </p>
           <p>
             Pythagoras seems to have gone through shamanic training: he went into a cave, and emerged radically transformed. He was very tall, and he dressed like a god, though no one seemed to have minded.
@@ -514,7 +514,7 @@ title: Timeline!
         </div>
         <div class="events"></div>
       </div>
-      <div class="period one">
+      <div class="period">
         <h2 id="socrates">
           Socrates
         </h2>
@@ -541,7 +541,7 @@ title: Timeline!
               Elenchus is the name given to the Socratic Method. Socrates would go to anyone claiming to have wisdom or knowledge, or to any tradesman, nobleman, etc., and ask them questions. "Why are you buying those goods? Oh, because they will bring you pleasure? Then you must know what pleasure is, please, tell me? And how can you tell which among them is good as opposed to bad, surely you must know what the good is?" and so on.
             </p>
             <p>
-              The state that his interlocutors eventually reached is called aporia. It's like being stung by a sting ray, confused, lost, paralyzed, utterly unable to continue the discussion. Socrates believed at some point to have completed his quest. He knew what he did not know. Not in the sense that one does not know the intricacies of quantum physics, but in the sense of <a href="#kairos-&-daath" class="link">da'ath</a>. Socrates has a deep sense of his own cognitive mechanisms and how self-deceptive they can be.
+              The state that his interlocutors eventually reached is called aporia. It's like being stung by a sting ray, confused, lost, paralyzed, utterly unable to continue the discussion. Socrates believed at some point to have completed his quest. He knew what he did not know. Not in the sense that one does not know the intricacies of quantum physics, but in the sense of <a href="#kairos-&-daath" >da'ath</a>. Socrates has a deep sense of his own cognitive mechanisms and how self-deceptive they can be.
             </p>
             <p>
               Socrates had figured out that our actions are constantly racing ahead of our knowledge. We are buying things, and we <em>don't know why</em>. We want and we do and we get angry and we fall in love and we <em>don't know what's going on</em>.
@@ -552,10 +552,10 @@ title: Timeline!
               The Sophists & Rhetoric
             </h3>
             <p>
-              The sophists (where we get the word sophisticated) were a group of people trained in the new, very Greek, psychotechnology of rhetoric, or argumentative skill. They did not care what the argument was for, only that it could be delivered well. See <a href="#bullshit" class="link">bullshit</a> for more information.
+              The sophists (where we get the word sophisticated) were a group of people trained in the new, very Greek, psychotechnology of rhetoric, or argumentative skill. They did not care what the argument was for, only that it could be delivered well. See <a href="#bullshit" >bullshit</a> for more information.
             </p>
             <p>
-              They were paid to teach citizens and prepare their speeches for democratic presentation. They would teach one man to argue for an augmentation of the Athenian navy and another for its diminuation. Socrates ultimately rejects the sophists as well, as they offer <a href="#truth-&-relevance" class="link">relevance without truth</a>.
+              They were paid to teach citizens and prepare their speeches for democratic presentation. They would teach one man to argue for an augmentation of the Athenian navy and another for its diminuation. Socrates ultimately rejects the sophists as well, as they offer <a href="#truth-&-relevance" >relevance without truth</a>.
             </p>
           </div>
           <div class="event">
@@ -599,7 +599,7 @@ title: Timeline!
           </div>
         </div>
       </div>
-      <div class="period two">
+      <div class="period">
         <h2>
           Plato
         </h2>
@@ -608,7 +608,7 @@ title: Timeline!
             428 — 348 BC
           </h3>
           <p>
-            Plato was a follower of Socrates, present at his trial though ill and not present at his death. His central question will be how it is that Plato's beloved Athens killed his beloved Socrates. This question, and this sort of question, will accellerate the Axial Revolution in Greece tremendously. It will lead to the invention of <a href="#plato's-psychology" class="link">psychology</a>.
+            Plato was a follower of Socrates, present at his trial though ill and not present at his death. His central question will be how it is that Plato's beloved Athens killed his beloved Socrates. This question, and this sort of question, will accellerate the Axial Revolution in Greece tremendously. It will lead to the invention of <a href="#plato's-psychology" >psychology</a>.
           </p>
         </div>
         <div class="events">
@@ -639,7 +639,7 @@ title: Timeline!
               Plato had the great idea that the man can learn and theorize, he can train the lion, and the man and the lion together can tame the monster. This is an optimization strategy, and you want each part to operate as fully as possible without hurting the others. This brings a fullness of being and peace for Plato, and it represents a meta-drive for humans: we want to have what we are having but to be at peace, without inner-conflict.
             </p>
             <p>
-              It doesn't go without saying that this path to fullness of being or inner-justice is a positive feedback loop. The more the man learns and trains the lion, the less self-deception and violence obscure the man and lion's path, the more the monster can be tamed. This will be further explained in <a href="#the-allegory-of-the-cave" class="link">The Allegory of the Cave</a>.
+              It doesn't go without saying that this path to fullness of being or inner-justice is a positive feedback loop. The more the man learns and trains the lion, the less self-deception and violence obscure the man and lion's path, the more the monster can be tamed. This will be further explained in <a href="#the-allegory-of-the-cave" >The Allegory of the Cave</a>.
             </p>
           </div>
           <div class="event">
@@ -691,7 +691,7 @@ title: Timeline!
       </div>
 
     </div>
-    <div class="period one">
+    <div class="period">
       <h2>
         India
       </h2>

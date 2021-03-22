@@ -3,51 +3,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,900;1,100;1,400;1,900&display=swap");
 
-// $red: #ff8e7f;
-// $pink: #ff80e2;
-// $purple: #9c7eff;
-// $blue: #80c1ff;
-// $green: #a1ff7f;
-// $yellow: #ffee7f;
-// $orange: #ffaf81;
-
-// .one {
-//   background-color: $red;
-// }
-
-// .two {
-//   background-color: $pink;
-// }
-
-// .three {
-//   background-color: $purple;
-// }
-
-// .four {
-//   background-color: $blue;
-// }
-
-// .five {
-//   background-color: $green;
-// }
-
-// .six {
-//   background-color: $yellow;
-// }
-
-// .seven {
-//   background-color: $orange;
-// }
-
-h1 {
-  padding: 0;
-  margin: 0;
-  margin-top: 5vw;
-  margin-left: 5vw;
-  margin-bottom: 5vw;
-  font-size: 12em;
-  line-height: 1em;
-}
+$white: #efefef;
 
 body {
   margin: 0;
@@ -55,139 +11,112 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 13pt;
   color: black;
+  background-color: $white;
 }
 
-#timeline-margins {
-  margin-left: 5vw;
-  margin-right: 5vw;
-}
-
-h2 {
-  text-align: left;
-  margin: 0;
+h1 {
+  margin: 5vw 0 5vw 5vw;
   padding: 0;
-  margin-left: 2vw;
-  margin-right: 2vw;
-  font-size: 48pt;
-  position: sticky;
-  top: 0;
-  background-color: white;
-  border-bottom: 2px solid black;
-  box-sizing: border-box;
+  font-size: 12em;
+  line-height: 1em;
 }
 
-.period {
-  margin: 0;
+#content {
+  margin: 0 5vw;
   padding: 0;
-  text-align: center;
-  box-sizing: border-box;
   .period {
-    border-left: 2px solid black;
-    margin-left: 5%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
     h2 {
-      top: 77.5px;
+      // period heading
+      margin: 0 2vw;
+      padding: 0;
+      font-size: 48pt;
+      text-align: left;
+      background-color: $white;
+      border-bottom: 2px solid black;
+      box-sizing: border-box;
+      position: sticky;
+      top: 0;
+      z-index: 2;
     }
     .period {
+      border-left: 2px solid black;
+      margin-left: 5%;
       h2 {
-        top: 155px;
+        // 2nd heading sticky offset
+        top: 77.5px;
+        z-index: 1;
+      }
+      .period {
+        h2 {
+          // 3rd heading sticky offset
+          top: 155px;
+          z-index: 0;
+        }
       }
     }
-  }
-}
-
-.summary {
-  display: inline-block;
-  vertical-align: top;
-  margin: 0;
-  padding: 0;
-  width: 40%;
-  margin-right: 10%;
-  margin-left: 5%;
-  margin-top: 4%;
-  margin-bottom: 4%;
-  text-align: left;
-  h3 {
-    font-weight: 900;
-    font-size: 2.5em;
-    margin: 0;
-    padding: 0;
-  }
-}
-
-.events {
-  display: inline-block;
-  vertical-align: top;
-  margin: 0;
-  padding: 0;
-  width: 40%;
-  margin-top: 4%;
-  text-align: left;
-
-  .event {
-    margin-bottom: 10%;
-  }
-
-  h3 {
-    font-weight: 900;
-    font-size: 2.5em;
-    line-height: 1em;
-    margin: 0;
-    padding: 0;
-  }
-
-  h4 {
-    font-weight: 900;
-    font-size: 1.5em;
-    margin: 0;
-    padding: 0;
-    margin-top: 10px;
-  }
-}
-
-p {
-  line-height: calc(1em + 0.5vw);
-}
-
-a {
-  display: inline-block;
-  padding: 0;
-  margin: 0;
-  color: var(--a);
-  font-weight: 900;
-  text-decoration: none;
-  background-color: inherit;
-  transition: 100ms;
-}
-
-@keyframes wiggle {
-  0% {
-    transform: rotate(-2deg);
-  }
-  50% {
-    transform: rotate(2deg);
-  }
-  100% {
-    transform: rotate(-2deg);
-  }
-}
-
-.link:hover {
-  position: relative;
-  animation: wiggle 1s infinite;
-}
-
-.period {
-  h2 {
-    z-index: 2;
-  }
-  .period {
-    h2 {
-      z-index: 1;
-    }
-    .period {
-      h2 {
-        z-index: 0;
+    .summary {
+      display: inline-block;
+      vertical-align: top;
+      margin: 0;
+      padding: 0;
+      width: 40%;
+      margin-right: 10%;
+      margin-left: 5%;
+      margin-top: 4%;
+      margin-bottom: 4%;
+      text-align: left;
+      h3 {
+        // summary title
+        font-weight: 900;
+        font-size: 2.5em;
+        margin: 0;
+        padding: 0;
       }
+    }
+    .events {
+      display: inline-block;
+      vertical-align: top;
+      margin: 0;
+      padding: 0;
+      width: 40%;
+      margin-top: 4%;
+      text-align: left;
+      .event {
+        margin-bottom: 10%;
+      }
+      h3 {
+        // event title
+        font-weight: 900;
+        font-size: 2.5em;
+        line-height: 1em;
+        margin: 0;
+        padding: 0;
+      }
+      h4 {
+        // event date
+        font-weight: 900;
+        font-size: 1.5em;
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+      }
+    }
+    p {
+      line-height: calc(1em + 0.5vw);
+    }
+    a {
+      display: inline-block;
+      padding: 0;
+      margin: 0;
+      color: var(--a);
+      font-weight: 900;
+      text-decoration: none;
+      background-color: inherit;
+      transition: 100ms;
     }
   }
 }
