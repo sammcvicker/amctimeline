@@ -22,6 +22,22 @@ title: Timeline!
           Michael Anderson
         </h3>
       </div>
+      <div class="book">
+        <h2>
+          The Mindfulness Revolution
+        </h2>
+        <h3>
+          Barry Boyce (Editor)
+        </h3>
+      </div>
+      <div class="book">
+        <h2>
+          Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence 
+        </h2>
+        <h3>
+          Andy Clark
+        </h3>
+      </div>
     </div>
     <div class="events">
         <div class="event">
