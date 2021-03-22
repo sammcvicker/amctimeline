@@ -3,41 +3,41 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,900;1,100;1,400;1,900&display=swap");
 
-$red: #ff8e7f;
-$pink: #ff80e2;
-$purple: #9c7eff;
-$blue: #80c1ff;
-$green: #a1ff7f;
-$yellow: #ffee7f;
-$orange: #ffaf81;
+// $red: #ff8e7f;
+// $pink: #ff80e2;
+// $purple: #9c7eff;
+// $blue: #80c1ff;
+// $green: #a1ff7f;
+// $yellow: #ffee7f;
+// $orange: #ffaf81;
 
-.one {
-  background-color: $red;
-}
+// .one {
+//   background-color: $red;
+// }
 
-.two {
-  background-color: $pink;
-}
+// .two {
+//   background-color: $pink;
+// }
 
-.three {
-  background-color: $purple;
-}
+// .three {
+//   background-color: $purple;
+// }
 
-.four {
-  background-color: $blue;
-}
+// .four {
+//   background-color: $blue;
+// }
 
-.five {
-  background-color: $green;
-}
+// .five {
+//   background-color: $green;
+// }
 
-.six {
-  background-color: $yellow;
-}
+// .six {
+//   background-color: $yellow;
+// }
 
-.seven {
-  background-color: $orange;
-}
+// .seven {
+//   background-color: $orange;
+// }
 
 h1 {
   padding: 0;
@@ -57,25 +57,40 @@ body {
   color: black;
 }
 
+#timeline-margins {
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
 h2 {
-  font-weight: 900;
-  font-size: 4em;
-  line-height: 1em;
   text-align: left;
   margin: 0;
-  padding: 5%;
-  padding-bottom: 1%;
+  padding: 0;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  font-size: 48pt;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: 2px solid black;
+  box-sizing: border-box;
 }
 
 .period {
   margin: 0;
   padding: 0;
-  padding-bottom: 4vw;
   text-align: center;
+  box-sizing: border-box;
   .period {
+    border-left: 2px solid black;
     margin-left: 5%;
     h2 {
-      padding-top: 6vw;
+      top: 77.5px;
+    }
+    .period {
+      h2 {
+        top: 155px;
+      }
     }
   }
 }
@@ -85,17 +100,17 @@ h2 {
   vertical-align: top;
   margin: 0;
   padding: 0;
-  margin-top: 1%;
-  margin-bottom: 5%;
-  margin-right: 10%;
   width: 40%;
+  margin-right: 10%;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-bottom: 4%;
   text-align: left;
   h3 {
     font-weight: 900;
     font-size: 2.5em;
     margin: 0;
     padding: 0;
-    margin-bottom: 8%;
   }
 }
 
@@ -104,9 +119,13 @@ h2 {
   vertical-align: top;
   margin: 0;
   padding: 0;
-  margin-top: 5%;
   width: 40%;
+  margin-top: 4%;
   text-align: left;
+
+  .event {
+    margin-bottom: 10%;
+  }
 
   h3 {
     font-weight: 900;
@@ -114,9 +133,6 @@ h2 {
     line-height: 1em;
     margin: 0;
     padding: 0;
-    margin-left: -5%;
-    margin-top: 5%;
-    margin-bottom: 2%;
   }
 
   h4 {
@@ -124,7 +140,7 @@ h2 {
     font-size: 1.5em;
     margin: 0;
     padding: 0;
-    margin-left: -5%;
+    margin-top: 10px;
   }
 }
 
@@ -158,4 +174,20 @@ a {
 .link:hover {
   position: relative;
   animation: wiggle 1s infinite;
+}
+
+.period {
+  h2 {
+    z-index: 2;
+  }
+  .period {
+    h2 {
+      z-index: 1;
+    }
+    .period {
+      h2 {
+        z-index: 0;
+      }
+    }
+  }
 }
