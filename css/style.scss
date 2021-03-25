@@ -42,7 +42,7 @@ h1 {
       box-sizing: border-box;
       position: sticky;
       top: 0;
-      z-index: 2;
+      z-index: 3;
     }
     .period {
       border-left: 2px solid $black;
@@ -50,13 +50,20 @@ h1 {
       h2 {
         // 2nd heading sticky offset
         top: 77.5px;
-        z-index: 1;
+        z-index: 2;
       }
       .period {
         h2 {
           // 3rd heading sticky offset
           top: 155px;
-          z-index: 0;
+          z-index: 1;
+        }
+        .period {
+          h2 {
+            // 4rd heading sticky offset
+            top: 232.5px;
+            z-index: 0;
+          }
         }
       }
     }

@@ -751,7 +751,178 @@ title: Timeline!
               Yet it is only once you understand this eidos that you actually really know what a bird is. It is at once what makes a thing itself and what gives your mind access to understanding it, how your mind can <em>conform</em> to the thing.
             </p>
           </div>
+          <div class="event">
+            <h3 id="anagoge">
+              Anagoge
+            </h3>
+            <p>
+              Anagoge is the term that Plato uses to refer to the sort of feedback loop involved in the Allegory of the Cave. It is like an insight-cascade, as you increase your inner-peace, you increase your self knowledge and reduce self-deception, which in turn increases inner-peace and so on. Wisdom is anagogic for Plato.
+            </p>
+          </div>
         </div>
+      </div>
+      <div class="period">
+        <h2>
+          Aristotle
+        </h2>
+        <div class="summary">
+          <h3>
+            384 — 322 BCE
+          </h3>
+          <p>
+            Aristotle layed the foundation for further aspects of a scientific approach to wisdom and meaning and an important formulation of a way we deeply connect the self to reality.
+          </p>
+          <p>
+            He studied with Plato at the Academy for 20 years and eventually breaks away from him with his famous remark: "I love Plato, but I love the truth more." Aristotle thought that Plato's account of what makes something real for us, the eidos, was great, but that Plato did not adequately account for change.
+          </p>
+          <p>
+            Being the son of a physician, Aristotle is much more easily drawn to biological analogies, rather than Plato's mathematical ones. As such, Aristotle's word for change is better translated as growth or development, which already hints at the connections to a meaningful life for us—part of what makes life meaninful is that we are growing and developing.
+          </p>
+        </div>
+        <div class="events">
+          <div class="event">
+            <h3 id="eidos-potentiality-&-actuality">
+              Eidos, Potentiality, & Actuality
+            </h3>
+            <p>
+              He wanted to give eidos a dynamic aspect. He noted the role that form had in growth and development. He would use the analogy of artifacts, man-made things, to understand biological things.
+            </p>
+            <p>
+              For example, I can have a block of wood and make it into a chair or a table or a ship. What makes the wood act like a chair as opposed to a table or a ship? This is aristotle's concept of actuality, and it is the origin of the word.
+            </p>
+            <p>
+              But the wood isn't doing nothing, though it has been structurally-functionally organized, informed, to be actually a chair. Aristotle invents the notion of potentiality to explain the other half of the dynamic. The wood is potentially anything, but only when it is given its form is it actually whatever the form makes it.
+            </p>
+            <p>
+              Aristotle argues that living things do this for themselves. A living thing is like a chair that is making itself. Food is potentially you, and through a process you inform it and make it you.
+            </p>
+            <p>
+              This is foundational to understanding how you connect to the world. To understand why, let's leap forward in time to contemporary dynamical systems theory.
+            </p>
+          </div>
+        </div>
+        <div class="period">
+            <h2>
+              Dynamical Systems Theory
+            </h2>
+            <div class="summary">
+            </div>
+            <div class="events">
+              <div class="event">
+                <h3>
+                  The Newtonian Causal Explanation
+                </h3>
+                <p>
+                  This is the explanation of event C in terms of an event B which preceeded and caused it, which in turn was preceeded and caused by an event A, etc. This solves a lot of problems, and is super intuitive. One of the problems that it solves is that it clearly explains the vacuousness of circular arguments, and it doesn't allow for them. This idea was brought out by Kant.
+                </p>
+                <p>
+                  However, Kant encountered a problem with this model. He saw a tree. It isn't an accident that this is the very type of thing that Aristotle liked to deal with and use in his analogies. A tree doesn't folllow the Newtonian causal model because the tree makes the leaves and the leaves make the tree. It's a feedback cycle. Kant then coins the term self-organizing. Kant makes the claim then that biology is an impossible science. This isn't something to be taken lightly. If trees are self-organizing and involve feedback cycles, then they involve circular causal relationships, which are vacuous. So where did Kant go wrong?
+                </p>
+              </div>
+              <div class="event">
+                <h3>
+                  Constraints and Causes
+                </h3>
+                <p>
+                  It would seem obvious that, if I were to push a round marker on a flat table, it would roll. And why? Because I pushed it. This is the Newtonian answer to the question. But think now about the <em>preconditions</em> of its movement—its round shape, the flatness of the table, the empty space in front of the marker. These things aren't events, but they are certainly necessary for the cause of my pushing the marker to acutally cause its movement.
+                </p>
+                <p>
+                  Alicia Juarrero makes the distinction between causes and constraints. Causes are events that happen, but constraints are conditions that make things possible or impossible. The Newtonian view focused so much on the causes that it lost sight of the constraints. But Aristotle, being largely a Platonist, actually treated the constraints as more important, because the constraints are the eidos, the structural-functional organization, the form of goings on. Things are organized such that motion for this marker is possible, etc. The causes are where you get actuality and the preconditions or constraints are where you get potentiality.
+                </p>
+                <p>
+                  But let's come back to the tree. There's a positive feedback loop of biochemical events or causes, whcih actually cause a particular form or structural-functional organization. Why do trees spread out their branches and leaves? Because they're trying to change the probability of a photon hitting a chlorophyl molecule. The events cause the structure which constrains, which shape the possibility or probability of events. 
+                </p>
+                <p>
+                  Living things have events happening in them that create a gestalt which makes a probability difference between inside and out. Now it's not a circular explanation because we're talking about two different things, actuality and potentiality.
+                </p>
+                <p>
+                  It's important to realize that this potentiality isn't so abstract. In fact, it's integral to modern science. Modern science depends on potentiality being a real thing. If you pick up a weight then stop with it in the air, where did all the kinetic energy go? It became potential energy. To preserve the conservation of matter and energy, we need potentiality to be real.
+                </p>
+                <p>
+                  Furthermore, consider the Newton's formula for force, F=MA. Is this an event? When does it happen? Every Tuesday at four o-clock? This is a constraint, something that constrains events.
+                </p>
+              </div>
+              <div class="event">
+                <h3>
+                  Enabling & Selective Constraints
+                </h3>
+                <p>
+                  Juarrero isn't done however, she further distinguishes between two types of constrains. Those that increase the likelihood of or make possible certain events are enabling constraints, while those which decrease the probability of or prohibit certain events are selective constraints. Let's use the ideas to talk about one of the most significant scientific theories of growth and development.
+                </p>
+              </div>
+              <div class="event">
+                <h3>
+                  Darwinian Evolution
+                </h3>
+                <p>
+                  This is the first theory which makes use of dynamical systems theory. First there's the feedback cycle of reproduction, it's goats that produce goats, then there's a selective constraint, scarcity of resources, then there's an eneabling constraint, considerable genetic variation. There's a dynamic cycle between a selective closing in on the options the system has and an eneabling opening up of those actions. And through it all, organisms become better fitted to their environments.
+                </p>
+              </div>
+              <div class="event">
+                <h3>
+                  Virtual Governors, Generators, & Engines
+                </h3>
+                <p>
+                  Juarrero labels selective constrains on a feedback loop virtual governors, and she stops there, but Vervaeke along with some others think she should finish the metaphor. Enabling constraints on a feedback cycle we will call a virtual generator, and a virtual generator together with a virtual governor we will call a virtual engine. Dynamical systems theory concerns explicating virtual engines, in other words where there's a systematic relation between enabling and selective constraints on a feedback cycle.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="summary">
+          </div>
+          <div class="events">
+            <div class="event">
+              <h3>
+                Aristotelian Character
+              </h3>
+              <p>
+                This is something we use in our language, but something the depth of which we don't fully understand. There's an aspect of who and what we are that's connected to our projects of meaning and wisdom, you've used the term or related terms: your character. It's not your personality, <em>that</em> you're born with and have no choice over. But you can cultivate your character, either unconsciously or more explicitly, So what is it? When we say someone is acting out of character, we're usually making an existential or moral criticism of them. They're normally honest, they normally have the virtue of honesty—this connection between virtue and virtual engines is not happenstance. When you talk about a virtue you're not talking about an event, you're talking about a set of constraints and preconditions which have been systematically cultivated in somebody. That points to something, when we're talking about character, we're talking about the virtual engine on someone's development. What system of constraints have you identified with and internalized that regulate your development.
+              </p>
+              <p>
+                Let's ask a socratic question: we spend a lot of time on our appearances, on our status, how much time did we spend today on our characters? How much? If it is the virtual engine regulating your growth and development, you should be spending a lot of time on it. Are you? Aristotle's method of the golden mean is a way to get you to set up conditions to cultivate your character. What is courage? Aristotle proposed that it's the golden mean between cowardice and foolhardiness. So what you're trying to do is set up a system where you're recognizing when you don't have enough generation and also when you lack the selective constraints, you have to train yourself by engaging in practices that slowly, over time will create a virtual engine. You are the source of your actions that modify your environment which feeds back and changes you, and again, and again. So the question is: are you just letting that happen to you, or are you actively trying to cultivate your character? 
+              </p>
+              <p>
+                We don't get the depths of what we're saying here, one of the most prescient criticisms we can of ourselves and of others is "they aren't living up to their potential." Part of what makes your life meaningful is you have cultivated character that allows you to actualize your potential, a virtual engine that regulates your development in a way in which you grow up, you improve, so that your potential is fully realized.
+              </p>
+            </div>
+            <div class="event">
+              <h3>
+                Wisdom
+              </h3>
+              <p>
+                Aristotle brings in this notion of development and growth to the constitution of a meaningful life. Wisdom becomes the ability to cultivate virtues, or a virtual engine which leads to the actualization of potential. And he points out that there's a deep form of foolishness that comes from a lack of character called akrasia, which we poorly translate as a weakness of will—because we're all post-protestants and we think the will is our central thing even though there's growing scientific evidence that the will is a defunct idea and that we should give it up.
+              </p>
+              <p>
+                Here's where we can put Aristotle and Plato together. Plato gives us a story of how we have to structure the psyche, but Aristotle gives us a much more penetrating analysis of the structural-functional organization of the psyche. Plato would say ignorance is when you do the wrong thing because you don't know, and foolishness is when you know what the right thing is but still do the wrong thing, but Aristotle would say, though you have the right beliefs, you don't have sufficient character—that you have not trained the skill and sensitivities, you have not a virtual engine regulating your development and growth such that you will live up to your potential and actualize yourself to do the right thing.
+              </p>
+            </div>
+            <div class="event">
+              <h3>
+                Purpose & The Hierarchy of Beings
+              </h3>
+              <p>
+                Why does living up to your potential matter so much? Let's go back to the analogy of the man made thing. What makes something well-made? What makes some knife a good knife?
+              </p>
+              <p>
+                Well, when it has a structural functional organization that allows it to fulfill its purpose. Knives are for cutting, and if I arrange the metal the right way, the handle, the leverage, it will cut well. Notice also that purpose is really important to us for meaning. But since humans aren't made like knives, since we make ourselves, we are autopoeitic. This is a concept from Evan Thomson. You're different from a tornado (which will move into conditions which destroy it). You will seek out conditions that protect and promote yourself. Here's the best part, in living things, it's purpose is its structural functional organization. You're purpose is to enhance your structural functional organization. For anistotle this means paying attention to the fact that you are a rational reflective creature.
+              </p>
+              <p>
+                You have matter, which is informed to a living thing, which is informed to a self-moving thing, which is informed, more actualized, into a self-making. But you can perform the axial revolution on yourself, you can actualize your self-making and become a rational thing.
+              </p>
+              <p>
+                Living up to your potential is to make sure you've cultivated a character that takes you as high on this hierarchy as possible. Someone that lived only as a plant or animal, would be a debauched, failed human being. But someone who is merely self-making but not rational? Maybe. You must cultivate your character to become a rational, moral human being. You become a good person if you actualize, inform, your being with a virtual engine that realizes those things which are distinctive of your humanity. You <em>realize</em> what makes humans different. Why am I more valuable that the table in front of me? Why do I matter more? Because there are things found in rational beings which aren't found in merely mental beings or animals or plants or matter—things which we find intrinsically valuable.
+              </p>
+              <p>
+                What are those things? Here's where Aristotle gives the Axial answer: our capacity for overcoming self-deception, for cultivating our characters, for realizing wisdom, and for enhancing the structure of our contact with reality.
+              </p>
+              <p>
+                Your purpose is to become as fully human as possible. How are you cultivating your character to do so? How much of your life is dedicated to creating a virtual engine that realizes your rational capacities, those things that make you most human in contrast to all the other things around you.
+              </p>
+              <p>
+                One of the things we could use today is to go back to Aristotle, to rejuvenate and reanimate these terms like character, growth, and development that have become trite and superficial. We talk in no other terms, we don't have any others, but they have no real depth for us. We can use Aristotle to deepen what these terms mean for us.
+              </p>
+            </div>
+          </div>
       </div>
 
     </div>
